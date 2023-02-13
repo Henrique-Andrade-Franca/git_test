@@ -12,7 +12,8 @@ int main(void){
     cout << "Hello World!";
   }
 
-  cin >> ap; 
+  cin >> ap;
+  cin >> ap;
 
   return 0;
 }
